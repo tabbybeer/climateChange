@@ -38,3 +38,34 @@ header{
     background-color: rgb(114, 202, 55);
 }
 
+span.right{
+  text-align: right;
+  float: right;
+  padding: 5px;
+}
+
+span.left{
+  text-align: left;
+  float: left;
+  padding: 5px;
+}
+
+span.kinda-left{
+  text-align: left;
+  float: left;
+  padding: 200px;
+}
+
+ul.stats{
+  background-color: white;
+}
+
+span.farming-video{
+  float: left;
+  padding: 20px;
+}
+
+span.left-padded{
+  float: left;
+  padding: 20px;
+}
