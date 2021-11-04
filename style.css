@@ -1,5 +1,5 @@
 .body{
-    background-color: rgb(225, 253, 183);
+    background-color: rgb(245, 255, 231);
 }
 
 .h1{
@@ -15,6 +15,12 @@ ul {
     width: 200px;
     background-color: #888888;
   }
+
+p{
+  font-size: medium;
+  padding: 10px;
+}
+
 
 
   li a {
@@ -40,7 +46,7 @@ header{
 }
 
 .top{
-    background-color: rgb(114, 202, 55);
+    background-color: rgb(173, 235, 132);
 }
 
 span.right{
@@ -74,4 +80,8 @@ span.farming-video{
 span.left-padded{
   float: left;
   padding: 20px;
+}
+
+.carosel-inner{
+  height: 200px;
 }
