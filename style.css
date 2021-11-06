@@ -82,6 +82,7 @@ span.left-padded{
   padding: 20px;
 }
 
-.carosel-inner{
-  height: 200px;
+.carousel-inner{
+  // height: 100px;
 }
+
